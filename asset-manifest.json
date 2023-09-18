@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.04995cea.css",
-    "main.js": "/portfolio/static/js/main.37655ede.js",
-    "static/js/787.6568e1bc.chunk.js": "/portfolio/static/js/787.6568e1bc.chunk.js",
-    "static/media/Profile2.jpg": "/portfolio/static/media/Profile2.df689118dd753de94905.jpg",
-    "static/media/github.png": "/portfolio/static/media/github.505103b720239831d24e.png",
-    "static/media/Profile.jpg": "/portfolio/static/media/Profile.34a5e585f8140f1c8ae7.jpg",
-    "static/media/JavaHtmlCss.png": "/portfolio/static/media/JavaHtmlCss.5f94236f6711ef56af6d.png",
-    "static/media/React.png": "/portfolio/static/media/React.86c8d9eba03e29814d2a.png",
-    "static/media/RStudio.png": "/portfolio/static/media/RStudio.f62f9b3046d5d08cf086.png",
-    "static/media/SQL.png": "/portfolio/static/media/SQL.1c4cf4d5504fe26161dd.png",
-    "static/media/excel.png": "/portfolio/static/media/excel.2c8f83c64d49d1ea1654.png",
-    "static/media/Python.png": "/portfolio/static/media/Python.c98134249d0b8cea0e29.png",
-    "index.html": "/portfolio/index.html",
-    "main.04995cea.css.map": "/portfolio/static/css/main.04995cea.css.map",
-    "main.37655ede.js.map": "/portfolio/static/js/main.37655ede.js.map",
-    "787.6568e1bc.chunk.js.map": "/portfolio/static/js/787.6568e1bc.chunk.js.map"
+    "main.css": "/PersonalWebsite/static/css/main.9a924d5e.css",
+    "main.js": "/PersonalWebsite/static/js/main.10db73dc.js",
+    "static/js/787.6568e1bc.chunk.js": "/PersonalWebsite/static/js/787.6568e1bc.chunk.js",
+    "static/media/Profile2.jpg": "/PersonalWebsite/static/media/Profile2.df689118dd753de94905.jpg",
+    "static/media/github.png": "/PersonalWebsite/static/media/github.505103b720239831d24e.png",
+    "static/media/Profile.jpg": "/PersonalWebsite/static/media/Profile.34a5e585f8140f1c8ae7.jpg",
+    "static/media/JavaHtmlCss.png": "/PersonalWebsite/static/media/JavaHtmlCss.5f94236f6711ef56af6d.png",
+    "static/media/React.png": "/PersonalWebsite/static/media/React.86c8d9eba03e29814d2a.png",
+    "static/media/RStudio.png": "/PersonalWebsite/static/media/RStudio.f62f9b3046d5d08cf086.png",
+    "static/media/SQL.png": "/PersonalWebsite/static/media/SQL.1c4cf4d5504fe26161dd.png",
+    "static/media/excel.png": "/PersonalWebsite/static/media/excel.2c8f83c64d49d1ea1654.png",
+    "static/media/Python.png": "/PersonalWebsite/static/media/Python.c98134249d0b8cea0e29.png",
+    "index.html": "/PersonalWebsite/index.html",
+    "main.9a924d5e.css.map": "/PersonalWebsite/static/css/main.9a924d5e.css.map",
+    "main.10db73dc.js.map": "/PersonalWebsite/static/js/main.10db73dc.js.map",
+    "787.6568e1bc.chunk.js.map": "/PersonalWebsite/static/js/787.6568e1bc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.04995cea.css",
-    "static/js/main.37655ede.js"
+    "static/css/main.9a924d5e.css",
+    "static/js/main.10db73dc.js"
   ]
 }
