@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/benpham99/static/css/main.83f9187d.css",
+    "main.js": "/benpham99/static/js/main.0d1c63d5.js",
+    "static/js/787.6568e1bc.chunk.js": "/benpham99/static/js/787.6568e1bc.chunk.js",
+    "static/media/Profile2.jpg": "/benpham99/static/media/Profile2.df689118dd753de94905.jpg",
+    "static/media/github.png": "/benpham99/static/media/github.505103b720239831d24e.png",
+    "static/media/Profile.jpg": "/benpham99/static/media/Profile.34a5e585f8140f1c8ae7.jpg",
+    "static/media/JavaHtmlCss.png": "/benpham99/static/media/JavaHtmlCss.5f94236f6711ef56af6d.png",
+    "static/media/React.png": "/benpham99/static/media/React.86c8d9eba03e29814d2a.png",
+    "static/media/RStudio.png": "/benpham99/static/media/RStudio.f62f9b3046d5d08cf086.png",
+    "static/media/SQL.png": "/benpham99/static/media/SQL.1c4cf4d5504fe26161dd.png",
+    "static/media/excel.png": "/benpham99/static/media/excel.2c8f83c64d49d1ea1654.png",
+    "static/media/Python.png": "/benpham99/static/media/Python.c98134249d0b8cea0e29.png",
+    "index.html": "/benpham99/index.html",
+    "main.83f9187d.css.map": "/benpham99/static/css/main.83f9187d.css.map",
+    "main.0d1c63d5.js.map": "/benpham99/static/js/main.0d1c63d5.js.map",
+    "787.6568e1bc.chunk.js.map": "/benpham99/static/js/787.6568e1bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83f9187d.css",
+    "static/js/main.0d1c63d5.js"
+  ]
+}
