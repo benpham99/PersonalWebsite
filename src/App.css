@@ -27,12 +27,13 @@
   
   .About {
     position: relative;
-    width: 100vw;
+
     height: 100vh;
     background-image: url('./Images/Profile2.jpg');
     background-size: cover;
     background-position:bottom;
     margin-left: 10%;
+
 
   }
 
@@ -52,7 +53,9 @@
     justify-content: center;
     flex-direction: column; 
     margin-left: 15%;
-    margin-right: 20%;
+    margin-right: 5%;
+    margin-top: 25%;
+    margin-bottom: 25%;
     text-align: justify;
     overflow-anchor: none;
 
@@ -65,6 +68,8 @@
     justify-content: center;
     margin-left: 15%;
     margin-right: 5%;
+    margin-top: 50%;
+    margin-bottom: 50%;
     text-align: justify;
     overflow-anchor: none;
   }
