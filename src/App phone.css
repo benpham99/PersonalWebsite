@@ -1,17 +1,33 @@
-@import url('https://fonts.googleapis.com/css?family=Fira+Code&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
 
-
-@media (min-Width: 750px) {
+@media (max-Width: 750px) {
 
   .Fira {
     font-family: 'Fira Code', monospace;
   }
 
+  .sidenav {
+    width: 100vw;
+    position:fixed; 
+    z-index: 1; 
+    top: 0; 
+    left: 0; 
+    transition: .5s ease; 
+    display: flex; 
+    flex-direction: row; 
+    align-items: center;
+    background-color: white;
+  
+  }
+
   .homeText {
     display: flex; 
     justify-content: center;
+    align-items: center;
     flex-direction: column; 
-    text-align: justify;
+    text-align: center;
+    margin-top: 110%;
+
   }
 
   .home {
@@ -20,61 +36,42 @@
     flex-direction: row; 
     align-items: center;
     justify-content: center;
-    margin-left: 10%;
-    margin-right: 10%;
     overflow-anchor: none;
   }
   
   .About {
-    position: relative;
-    width: 100vw;
     height: 100vh;
+    width: 100vw;
     background-image: url('./Images/Profile2.jpg');
     background-size: cover;
-    background-position:bottom;
-    margin-left: 10%;
-
-  }
-
-  .AboutText {
-    position: absolute;
-    bottom: 30%;
-    right: 40%;
-    margin: 10%;
-    font-size: 14pt;
+    background-repeat: no-repeat;
+    background-position:top right 30%;
+    display:flex;
     color: white;
     font-weight: 500;
   }
 
-  .experience {
-    height: 100vh;
-    display: flex;
+  .AboutText {
+    display: flexbox;
+    align-items: center;
+    text-align: justify;
+    margin: 5%;
     justify-content: center;
+  }
+
+  .experience {
+    height: 100vh; 
     flex-direction: column; 
-    margin-left: 15%;
-    margin-right: 20%;
+    margin: 5%;
     text-align: justify;
     overflow-anchor: none;
-
   }
   
   .education {
     height: 100vh;
     display: flex; 
     flex-direction: column; 
-    justify-content: center;
-    margin-left: 15%;
-    margin-right: 5%;
-    text-align: justify;
-    overflow-anchor: none;
-  }
-  .contact {
-    height: 100vh;
-    display: flex; 
-    flex-direction: column; 
-    justify-content: center;
-    margin-left: 15%;
-    margin-right: 5%;
+    margin: 5%;
     text-align: justify;
     overflow-anchor: none;
   }
@@ -84,52 +81,43 @@
     display: flex; 
     flex-direction: column; 
     justify-content: center;
-    margin-left: 15%;
-    margin-right: 5%;
+    margin: 5%;
     text-align: justify;
     overflow-anchor: none;
   }
-
-  .skills {
+  .contact {
     height: 100vh;
     display: flex; 
     flex-direction: column; 
     justify-content: center;
-    margin-left: 15%;
-    margin-right: 5%;
+    margin: 5%;
+
+    overflow-anchor: none;
+  }
+
+  .skills {
+    
+    height: 100vh;
+    display: flex; 
+    margin: 5%;
     text-align: justify;
     overflow-anchor: none;
   }
 
   .gridlayout {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    grid-auto-rows: 22%;
   }
-  
 
   .technicalIcon {
-    height: 50pt;
+    height: 60%;
   }
 
-
-  .sidenav {
-    height: 100vh;  
-    width: 10%;
-    position:fixed; 
-    z-index: 1; 
-    top: 0; 
-    left: 0; 
-    transition: .5s ease; 
-    display: flex; 
-    flex-direction: column; 
-    align-items: center;
-    justify-content: center;
-  }
-  
 
   .profile {
-    width: 300pt;
-    margin-left: 40pt;
+    position: absolute;
+    width: 70%;
     border-radius: 40% 70% 70% 40% / 40% 40% 70% 70%;
     animation: morphing 10s infinite;
     overflow: hidden;
@@ -138,7 +126,12 @@
   }
 
 
-
+  br {
+    content: "";
+    margin: 2em;
+    display: block;
+    font-size: 24%;
+  }
     
   @keyframes morphing {
     0% {
@@ -157,32 +150,33 @@
   
   
   .h1 {
-    font-size: 60pt;
+    font-size: 30pt;
   }
   
   .h2 {
-    font-size: 30pt;
+    font-size: 20pt;
   }
   
   .h3 {
-    font-size: 45pt;
+    font-size: 30pt;
 
   }
   .h4 {
-    font-size: 30pt;
+    font-size: 15pt;
   }
   
   .text {
-    font-size:16pt;
+    font-size:8pt;
   }
   
   .bullet {
-    font-size:1vw;
+    font-size:0.8vw;
     text-align: left;
   }
   .sidenavtext {
-    font-size:10pt;
+    font-size:2.2vw;
     text-align: centre;
   }
 
 }
+
