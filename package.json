@@ -1,6 +1,6 @@
 {
-  "homepage": "http://benpham99.github.io/PersonalWebsite",
-  "name": "personalwebsite",
+  "homepage": "http://benpham99.github.io/Portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
